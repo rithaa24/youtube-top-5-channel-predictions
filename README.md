@@ -1,5 +1,4 @@
 # youtube-top-5-channel-predictions
-Sure! Below is an example of a README file for a YouTube analysis project. This document will help explain the purpose, installation steps, usage, and other relevant information about the project.
 
 ---
 
